@@ -1,8 +1,8 @@
 # GYMSCH Technik
- Technik Gruppe des Maria-Merian Gymnasiums Schkeuditz
+ Technik-Team des Maria-Merian Gymnasiums Schkeuditz
 
 
-[Anika und Emiel][email]
+[E-Mail][email]
 
 
 [email]: mailto:technik@gymnasium-schkeuditz.de
