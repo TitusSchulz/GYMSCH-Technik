@@ -5,4 +5,4 @@
 Anika und Emiel [email]
 
 
-[email] mailto:technik@gymnasium-schkeuditz.de
+[email]: mailto:technik@gymnasium-schkeuditz.de
